@@ -72,3 +72,11 @@ section div img{
   margin: auto;
   max-width: 580px;
 }
+
+a{
+  color: #1286f3;
+}
+
+a:hover {
+  color: #e77213;
+}
